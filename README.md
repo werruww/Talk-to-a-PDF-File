@@ -12,5 +12,9 @@ https://medium.com/data-science/how-to-talk-to-a-pdf-file-without-using-propriet
 
 
 but with modified code
+
+
+
+
 thank you Stefan Pietrusky
 
